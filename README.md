@@ -88,7 +88,9 @@ For larger or more time-intensive changes, you're welcome to outline your ideas 
 
 ### Write-up
 
-<!-- Write-up/conclusion section -->
+Adding pagination to the search results could improve performance and user experience by allowing users to load results in smaller, more manageable chunks instead of all at once.
+
+As the data continues to expand, it's easy to run into performance issues with the current setup. To address this, we might want to explore more search options like full-text search or even consider integrating a dedicated search engine like Elasticsearch in the future.
 
 _When all the behaviour is implemented, feel free to add some observations or conclusions you like to share in the section_
 
